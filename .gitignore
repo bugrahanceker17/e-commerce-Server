@@ -1,0 +1,15 @@
+# Compiled source #
+###################
+
+# Packages #
+############
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.env
